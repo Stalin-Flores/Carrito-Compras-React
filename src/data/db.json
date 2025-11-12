@@ -1,0 +1,241 @@
+{
+    "products": [
+    {
+        "id": 1,
+        "nombre": "Calzado caballero tipo tenis",
+        "categoria": "Hombres",
+        "descripcion": "Calzado para caballero marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
+        "image": "/images/p1.png",
+        "precio": 150,
+        "tipo": "Calzado"
+    },
+    {
+        "id": 2,
+        "nombre": "Camisa para niños con manga larga",
+        "categoria": "Niños",
+        "descripcion": "Una camisa ligera, generalmente de punto, ajustada, con cuello redondo y mangas cortas, que se usa como camiseta interior o prenda exterior.",
+        "image": "/images/p2.png",
+        "precio": 50
+    },
+    {
+        "id": 3,
+        "nombre": "Calzado para dama",
+        "categoria": "Mujeres",
+        "descripcion": "Calzado para dama marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
+        "image": "/images/p3.png",
+        "precio": 75,
+        "tipo": "Calzado"
+    },
+    {
+        "id": 4,
+        "nombre": "Playera de algodón negra",
+        "categoria": "Hombres",
+        "descripcion": "Playera de algodón. Ideal para colocarle vinil textil y hojas transfer textiles.",
+        "image": "/images/p4.png",
+        "precio": 10
+    },
+    {
+        "id": 5,
+        "nombre": "Blusa de color chilchote",
+        "categoria": "Mujeres",
+        "descripcion": "Blusa tela piel de durazno. Ideal para colocarle vinil textil y hojas transfer textiles.",
+        "image": "/images/p5.png",
+        "precio": 12
+    },
+    {
+        "id": 6,
+        "nombre": "Pantalon de lona color azul",
+        "categoria": "Hombres",
+        "descripcion": "Pantalón de lona resistente, ideal para uso casual o trabajo. Disponible en colores oscuros y con bolsillos amplios.",
+        "image": "/images/p6.png",
+        "precio": 25
+    },
+    {
+        "id": 7,
+        "nombre": "Calzado caballero tipo tenis con suelo blanco",
+        "categoria": "Hombres",
+        "descripcion": "Calzado para caballero marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
+        "image": "/images/p7.png",
+        "precio": 150,
+        "tipo": "Calzado"
+    },
+    {
+        "id": 8,
+        "nombre": "Chumpa para caballeros ",
+        "categoria": "Hombres",
+        "descripcion": "Chumpa ligera de poliéster, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
+        "image": "/images/p8.png",
+        "precio": 35,
+        "tipo": "Prendas de abrigo"
+    },
+    {
+        "id": 9,
+        "nombre": "Chumpa para damas color gris",
+        "categoria": "Mujeres",
+        "descripcion": "Chumpa ligera de poliéster, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
+        "image": "/images/p9.png",
+        "precio": 25,
+        "tipo": "Prendas de abrigo"
+    },
+    {
+        "id": 10,
+        "nombre": "Calzado para dama color plateado",
+        "categoria": "Mujeres",
+        "descripcion": "Calzado para dama marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
+        "image": "/images/p10.png",
+        "precio": 75,
+        "tipo": "Calzado"
+    },
+    {
+        "id": 11,
+        "nombre": "Blusa para mujeres con manga Larga",
+        "categoria": "Mujeres",
+        "descripcion": "Blusa elegante de manga larga para mujer color blanca, hecha de algodón suave. Diseño ajustado con cuello redondo y detalles plisados en las mangas. Perfecta para ocasiones casuales o de oficina.",
+        "image": "/images/p11.png",
+        "precio": 15
+    },
+    {
+        "id": 12,
+        "nombre": "Tenis para Hombres",
+        "categoria": "Hombres",
+        "descripcion": "Calzado para caballero marca Lugo Conti de uso casual en color besh. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
+        "image": "/images/p12.png",
+        "precio": 35,
+        "tipo": "Calzado"
+    },
+    {
+        "id": 13,
+        "nombre": "Vestido para niña",
+        "categoria": "Niños",
+        "descripcion": "Vestido ligero y cómodo para niñas, con estampado floral. Fabricado en algodón transpirable, ideal para eventos especiales o días casuales. Incluye un cinturón ajustable para un toque elegante.",
+        "image": "/images/p13.png",
+        "precio": 12
+    },
+    {
+        "id": 14,
+        "nombre": "Chaqueta para caballeros ",
+        "categoria": "Hombres",
+        "descripcion": "Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
+        "image": "/images/p14.png",
+        "precio": 38,
+        "tipo": "Prendas de abrigo"
+    },
+    {
+        "id": 16,
+        "nombre": "Pantalón de lona para mujeres",
+        "categoria": "Mujeres",
+        "descripcion": "Pantalón de lona resistente, ideal para uso casual o trabajo. Disponible en colores oscuros y con bolsillos amplios.",
+        "image": "/images/p15.png",
+        "precio": 25
+    },
+    {
+        "id": 17,
+        "nombre": "Chumpa para niños",
+        "categoria": "Niños",
+        "descripcion": "Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
+        "image": "/images/p16.png",
+        "precio": 30,
+        "tipo": "Prendas de abrigo"
+    },
+    {
+        "id": 18,
+        "nombre": "Chumpa para niños clor celeste",
+        "categoria": "Niños",
+        "descripcion": "Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
+        "image": "/images/p17.png",
+        "precio": 30,
+        "tipo": "Prendas de abrigo"
+    },
+    {
+        "id": 19,
+        "nombre": "Chumpa para hombres color piel",
+        "categoria": "Hombres",
+        "descripcion": "Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
+        "image": "/images/p18.png",
+        "precio": 25
+    },
+    {
+        "id": 20,
+        "nombre": "Chumpa para hombres color negro",
+        "categoria": "Hombres",
+        "descripcion": "Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
+        "image": "/images/p19.png",
+        "precio": 40,
+        "tipo": "Prendas de abrigo"
+    },
+    {
+        "id": 21,
+        "nombre": "Playera de algodón color negro para caballeros",
+        "categoria": "Hombres",
+        "descripcion": "Playera de algodón. Ideal para colocarle vinil textil y hojas transfer textiles.",
+        "image": "/images/p20.png",
+        "precio": 12
+    },
+    {
+        "id": 22,
+        "nombre": "Blusa color negra para damas",
+        "categoria": "Mujeres",
+        "descripcion": "Blusa de algodón. Ideal para colocarle vinil textil y hojas transfer textiles.",
+        "image": "/images/p21.png",
+        "precio": 12
+    },
+    {
+        "id": 23,
+        "nombre": "Blusa color gris para mujeres",
+        "categoria": "Mujeres",
+        "descripcion": "Blusa de algodón. Ideal para colocarle vinil textil y hojas transfer textiles.",
+        "image": "/images/p22.png",
+        "precio": 10
+    },
+    {
+        "id": 24,
+        "nombre": "Playera de algodón blanco para hombres",
+        "categoria": "Hombres",
+        "descripcion": "Playera de algodón. Ideal para colocarle vinil textil y hojas transfer textiles.",
+        "image": "/images/p23.png",
+        "precio": 12
+    },
+    {
+        "id": 25,
+        "nombre": "Chumpa para mujeres color besh",
+        "categoria": "Mujeres",
+        "descripcion": "Chumpa ligera de poliéster color azul, ideal para climas frescos. Diseño moderno con cierre frontal, capucha ajustable y bolsillos laterales con cremallera.",
+        "image": "/images/p24.png",
+        "precio": 40,
+        "tipo": "Prendas de abrigo"
+    },
+    {
+        "id": 26,
+        "nombre": "Zapato para damas estilo tenis",
+        "categoria": "Mujeres",
+        "descripcion": "Calzado para dama marca Lugo Conti de uso casual en color rosa. Este bonito calzado es un zapato tipo tenis para dar mucho mas comodidad, es ligero y con un diseño atractivo a la vista, su suela corrida en tono beige le da el contraste perfecto para lucirlos donde quieras",
+        "image": "/images/p25.png",
+        "precio": 25,
+        "tipo": "Calzado"
+    },
+    {
+        "id": 27,
+        "nombre": "Pantalón color negro para niño",
+        "categoria": "Niños",
+        "descripcion": "Pantalón de lona resistente, ideal para uso casual o trabajo. Disponible en colores oscuros y con bolsillos amplios.",
+        "image": "/images/p26.png",
+        "precio": 25
+    },
+    {
+        "id": 28,
+        "nombre": "Camisa para hombres con manga larga",
+        "categoria": "Hombres",
+        "descripcion": "Una camisa ligera, generalmente de punto, ajustada, con cuello redondo y mangas cortas, que se usa como camiseta interior o prenda exterior.",
+        "image": "/images/p27.png",
+        "precio": 50
+    },
+    {
+        "id": 29,
+        "nombre": "Camiseta para niños",
+        "categoria": "Niños",
+        "descripcion": "Una camiseta ligera, generalmente de punto, ajustada, con cuello redondo y mangas cortas, que se usa como camiseta interior o prenda exterior.",
+        "image": "/images/p28.png",
+        "precio": 8
+    }
+    ]
+}
