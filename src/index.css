@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+/* Aplicar fuente Poppins globalmente */
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+/* Fuente decorativa para títulos */
+.font-display {
+  font-family: 'Playfair Display', serif;
+}
